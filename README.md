@@ -1,4 +1,4 @@
-# FX Analysis: Exchange Rate Volatility and Currency Comparisons
+# FX Analysis
 
 This project analyzes daily foreign exchange rate data in R. It compares major currencies against the U.S. dollar, computes daily log returns, ranks currencies by volatility, and examines currency co-movement through correlations and cross-exchange rates.
 
